@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Adidas",
+        "author": "Adolf Dassler",
+        "price": 1000,
+        "img": "https://images.pexels.com/photos/812875/pexels-photo-812875.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 2,
+        "name": "Converse",
+        "author": "Converse, Inc",
+        "price": 800,
+        "img": "https://images.pexels.com/photos/3366377/pexels-photo-3366377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 3,
+        "name": "Yonex",
+        "author": "Yonex.Co.ltd",
+        "price": 750,
+        "img": "https://images.pexels.com/photos/10611955/pexels-photo-10611955.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "name": "Nike",
+        "author": "nike.inc",
+        "price": 950,
+        "img": "https://images.pexels.com/photos/18014875/pexels-photo-18014875/free-photo-of-zapatos-deporte-pelota-tenis.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
